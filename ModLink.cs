@@ -1,4 +1,7 @@
-﻿namespace EchKode.PBMods.AddButtonToUI
+﻿// Copyright (c) 2024 EchKode
+// SPDX-License-Identifier: BSD-3-Clause
+
+namespace EchKode.PBMods.AddButtonToUI
 {
 	public partial class ModLink : PhantomBrigade.Mods.ModLink
 	{
